@@ -1,0 +1,17 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: TrueOS Symbian SunSolaris (private)
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: π\¶™
+      run: echo No Java Custom {floating demand} Non-Binary
+    - name: Universe Internet (sensory based)
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
